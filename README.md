@@ -20,10 +20,10 @@ Welcome to the **Uber Trip Analysis Dashboard** – a data-driven storytelling p
 
 ## 📁 Files in Repository
 
-- `Uber Trip Details.xlsx` – Contains detailed records of individual Uber trips.
 - `Location Table.xlsx` – List of available Uber locations and areas.
-- `Problem Statement.docx` – Describes the analytical goals and business context.
 - `Problem Statement.pdf` – PDF version of the problem statement for easy sharing and viewing of Project.
+- `README.md` – Project documentation with overview, insights, and technical details.
+- `Uber Trip Details.xlsx` – Contains detailed records of individual Uber trips.
 
 ---
 
